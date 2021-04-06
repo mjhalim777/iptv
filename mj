@@ -1,1 +1,201 @@
-
+#EXTM3U
+#EXTINF:0,This is free and for entertainment use only.
+plugin://plugin.video.youtube/play/?video_id=CM4CkVFmTds
+#EXTINF:0,Kapamilya Channel
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
+#EXTINF:0,TV5
+http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
+#EXTINF:0,One Sports
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+#EXTINF:0,GMA
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
+#EXTINF:0,Jeepney TV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
+#EXTINF:0,DepEd TV
+http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
+#EXTINF:0,Knowledge Channel
+#EXTVLCOPT:http-referrer=https://tfc.tv/
+#EXTVLCOPT:http-user-agent=Mozilla
+https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master480p.m3u8
+#EXTINF:0,Solar Learning
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/123.m3u8
+#EXTINF:0,IBC
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/98.m3u8
+#EXTINF:0,NET 25
+https://ebc.sytes.net/hls/net25.m3u8
+#EXTINF:0,ANC
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/103.m3u8
+#EXTINF:0,CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
+#EXTINF:0,Island Living Channel
+http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
+#EXTINF:0,Cine Mo! Philippines
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
+#EXTINF:0,Cinema One Philippines
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/109.m3u8
+#EXTINF:0,PBO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
+#EXTINF:0,SMNI
+http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:0,GCTV
+http://45.32.115.103/live/livestream/index.m3u8
+#EXTINF:0,CBN
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+#EXTINF:0,Hillsong Channel
+http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
+#EXTINF:0,Animax
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
+#EXTINF:0,Disney Channel
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
+#EXTINF:0,Disney Channel Asia
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/126.m3u8
+#EXTINF:0,Disney Junior
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+#EXTINF:0,Cartoon Network HD
+#EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0
+https://indotv.tech/m3u8sd/usee-cartoonnetwork-indonesia.m3u8
+#EXTINF:0,PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+#EXTINF:0,Discovery
+#EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0
+https://indotv.tech/m3u8sd/usee-disco-indonesia.m3u8
+#EXTINF:0,Animal Planet
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
+#EXTINF:0,History
+#EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0
+https://indotv.tech/m3u8sd/usee-history-indonesia.m3u8
+#EXTINF:0,National Geographic
+#EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0
+https://indotv.tech/m3u8sd/usee-natgeo-indonesia.m3u8
+#EXTINF:0,Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:0,CGTN Documentary
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:0,NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:0,Da Vinci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+#EXTINF:0, Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0,Fashion TV+
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0,eGG Network
+http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
+#EXTINF:0,ESR
+https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,PBA Rush
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/122.m3u8
+#EXTINF:0,Solar Sports
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/118.m3u8
+#EXTINF:0,Pinoy Xtreme
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/124.m3u8
+#EXTINF:0,NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:0,NBA TV Philippines
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8
+#EXTINF:0,One Sports+
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/114.m3u8
+#EXTINF:0,Fite
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:0,Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:0, Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
+#EXTINF:0,CNN
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Fox News Channel
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:0,NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:0,Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:0,ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0,CBSN
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:0, Bloomberg Business
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+#EXTINF:0,CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:0,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0,Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:0,Warner TV
+http://203.154.243.89:11205/
+#EXTINF:0,Comedy Central
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
+#EXTINF:0,FOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:0,FX
+https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
+#EXTINF:0,Game Show Network
+https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
+#EXTINF:0,ABC TV Australia
+https://c.mjh.nz/101002510251/
+#EXTINF:0,Pop TV
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:0,Zee TV HD
+https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/index.m3u8
+#EXTINF:0,&Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0,Paramount Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+#EXTINF:0,FOX Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:0,HBO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/113.m3u8
+#EXTINF:36,Channel V
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+#EXTINF:0,Myx
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/116.m3u8
+#EXTINF:0,MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:0,MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:0,MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:0,Yo! MTV
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
+#EXTINF:0,NBA channels active during live games
+https://i.imgur.com/BtwxhNR.png
+#EXTINF:0,NBA 01 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2358.ts
+#EXTINF:0,NBA 02 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2359.ts
+#EXTINF:0,NBA 03 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2360.ts
+#EXTINF:0,NBA 04 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2361.ts
+#EXTINF:0,NBA 05 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2362.ts
+#EXTINF:0,NBA 06 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2363.ts
+#EXTINF:0,NBA 07 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2364.ts
+#EXTINF:0,NBA 08 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2365.ts
+#EXTINF:0,NBA 09 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2366.ts
+#EXTINF:0,NBA 10 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2367.ts
+#EXTINF:0,NBA 11 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2368.ts
+#EXTINF:0,NBA 12 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2369.ts
+#EXTINF:0,NBA 13 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2370.ts
+#EXTINF:0,NBA 14 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2371.ts
+#EXTINF:0,NBA 15 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2372.ts
+#EXTINF:0,NBA 16 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2373.ts
+#EXTINF:0,NBA 17 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2374.ts
